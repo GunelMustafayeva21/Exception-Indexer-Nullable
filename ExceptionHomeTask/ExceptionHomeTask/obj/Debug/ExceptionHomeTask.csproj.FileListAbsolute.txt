@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\bin\Debug\ExceptionHomeTask.exe.config
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\bin\Debug\ExceptionHomeTask.exe
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\bin\Debug\ExceptionHomeTask.pdb
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\obj\Debug\ExceptionHomeTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\obj\Debug\ExceptionHomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\obj\Debug\ExceptionHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\obj\Debug\ExceptionHomeTask.exe
+C:\Users\Hp\source\repos\ExceptionHomeTask\ExceptionHomeTask\obj\Debug\ExceptionHomeTask.pdb
